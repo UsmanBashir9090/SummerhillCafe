@@ -35,7 +35,7 @@ class CookieDetail extends StatelessWidget {
                   ),
                 ),
                 Container(
-                    padding: const EdgeInsets.fromLTRB(10.0, 5.0, 90.0, 0.0),
+                    padding: const EdgeInsets.fromLTRB(4.0, 5.0, 90.0, 0.0),
                     child: Text('SummerHill Cafe',
                         style: TextStyle(
                           color: Colors.red,

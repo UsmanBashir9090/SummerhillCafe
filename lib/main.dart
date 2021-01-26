@@ -77,7 +77,7 @@ class _MyHomePageState extends State<MyHomePage>
                   height: 28,
                 ),
                 Container(
-                    padding: const EdgeInsets.fromLTRB(8.0, 8.0, 0, 0),
+                    padding: const EdgeInsets.fromLTRB(4.0, 8.0, 0, 0),
                     child: Text('SummerHill Cafe',
                         style: TextStyle(
                           color: Colors.red,
